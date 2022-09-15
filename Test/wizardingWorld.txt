@@ -1,0 +1,6 @@
+wizard harry potter
+wizard ronald weasley
+wizard draco malfoy
+muggle harry potter
+muggle hermoine granger
+muggle hermoine potter
